@@ -1,3 +1,5 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Sovereign AI](https://img.shields.io/badge/Sovereign-AI-black?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/your-username/your-repo)
 This is my offering to the Open-Source Community. I am an advocate of Sovereign AI. This writing talks about how first to 
 build your own Soverneign cluster using a linux workstation and 6 macbook laptops to handle the LLM by slicing it across the 6  
 Apple laptops and the Linux desktop doing the orchestration.
